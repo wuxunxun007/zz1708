@@ -1,0 +1,25 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "cn.qianfeng.phonegap"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "cn.qianfeng.phonegap"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "cn.qianfeng.phonegap"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "cn.qianfeng.phonegap"
+        }
+    }
+}
